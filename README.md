@@ -1,2 +1,1 @@
-# Veiligheidsregio Kennemerland API
- 
+# APIDesign
