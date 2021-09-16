@@ -8,6 +8,7 @@ using Kennemerland.Services;
 
 namespace Kennemerland.Startup {
 	public class Program {
+		// DIT IS EEN COMMENT
 		public static void Main() {
 			IHost host = new HostBuilder()
 				.ConfigureFunctionsWorkerDefaults((IFunctionsWorkerApplicationBuilder Builder) => {
